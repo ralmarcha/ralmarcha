@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raquel</h1>
 <h3 align="center">A FullStack Developer from Barcelona</h3>
 
-- 🔭 I’m currently working on my [Github Pages](https://ralmarcha.github.io)
+- 🔭 I’m currently working on my [Webpage](https://ralmarcha.github.io)
 
 - 🌱 I’m currently learning **Python & Angular**
-
-- 👨‍ I'm also working on [my webpage ⚠️WIP](ralmarcha.github.io/raquel)
 
 - 📫 You can reach me at [my email](ralmarcha@gmail.com)
 
