@@ -7,9 +7,9 @@
 
 - 👨‍ I'm also working on [my webpage ⚠️WIP](ralmarcha.github.io/raquel)
 
-- 📫 You can reach me at **ralmarcha@gmail.com**
+- 📫 You can reach me at [my email](ralmarcha@gmail.com)
 
-- ⚡About me **I love music & books**
+- ⚡About me I love music & books
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
