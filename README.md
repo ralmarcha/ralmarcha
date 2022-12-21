@@ -9,7 +9,7 @@
 
 - 📫 You can reach me at [my email](ralmarcha@gmail.com)
 
-- ⚡About me I love music & books
+- ⚡About me I love music , books & travel
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
