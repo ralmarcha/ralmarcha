@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raquel</h1>
 <h3 align="center">A FullStack Developer from Barcelona</h3>
 
-- 🔭 I’m currently working on my [Github Pages ⚠️WIP](ralmarcha.github.io)
+- 🔭 I’m currently working on my [Github Pages](ralmarcha.github.io)
 
 - 🌱 I’m currently learning **Python & Angular**
 
