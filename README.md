@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my [Webpage](https://ralmarcha.github.io)
 
-- 🌱 I’m currently learning **Python & Angular**
+- 🌱 I’m currently learning **React**
 
 - 📫 You can reach me at [my email](ralmarcha@gmail.com)
 
